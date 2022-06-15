@@ -1,0 +1,15 @@
+.Undefined {
+  color: grey;
+}
+
+.Pending {
+  color: rgb(255, 225, 0);
+}
+
+.Error {
+  color: red;
+}
+
+.Success {
+  color: rgb(43, 255, 0);
+}
